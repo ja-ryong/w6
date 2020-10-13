@@ -1,0 +1,45 @@
+.lala{
+	margin-left: 80px;
+	width: 1350px;
+	animation-name: lala;
+	animation-duration: 4s;
+}
+
+@keyframes lala{
+	0%{
+		opacity: 0;
+	}
+	28%{
+		opacity: 0;
+	}
+	29.3%{
+		opacity: 0.5;
+	}
+	30.6%{
+		opacity: 0;
+	}
+	32%{
+		opacity: 0;
+	}
+	33.3%{
+		opacity: 0.5;
+	}
+	34.6%{
+		opacity: 0;
+	}
+	60.7%{
+		opacity: 0;
+	}
+	62%{
+		opacity: 1;
+	}
+	63.3%{
+		opacity: 0;
+	}
+	66%{
+		opacity: 1;
+	}
+	100%{
+		opacity: 1;
+	}
+}
